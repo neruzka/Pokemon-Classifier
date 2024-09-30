@@ -1,0 +1,16 @@
+-i https://pypi.org/simple
+certifi==2024.8.30; python_version >= '3.6'
+cffi==1.17.1; platform_python_implementation != 'PyPy'
+charset-normalizer==3.3.2; python_full_version >= '3.7.0'
+cryptography==43.0.1
+idna==3.10; python_version >= '3.6'
+imutils==0.5.4
+numpy==2.1.1; python_version >= '3.10'
+opencv-python==4.10.0.84; python_version >= '3.6'
+psycopg2-binary==2.9.9; python_version >= '3.7'
+pycparser==2.22; python_version >= '3.8'
+pyjwt[crypto]==2.9.0; python_version >= '3.8'
+pyyaml==6.0.2; python_version >= '3.8'
+requests==2.32.3; python_version >= '3.8'
+responses==0.25.3; python_version >= '3.8'
+urllib3==2.2.3; python_version >= '3.8'
